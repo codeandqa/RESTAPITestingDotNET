@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 15 for Windows Desktop
+VisualStudioVersion = 15.0.27004.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoogleBloggerAPITests", "GoogleBloggerAPITests\GoogleBloggerAPITests.csproj", "{4FF4724E-6D7A-4B7A-81C0-D4D31F0CD31C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4FF4724E-6D7A-4B7A-81C0-D4D31F0CD31C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FF4724E-6D7A-4B7A-81C0-D4D31F0CD31C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FF4724E-6D7A-4B7A-81C0-D4D31F0CD31C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FF4724E-6D7A-4B7A-81C0-D4D31F0CD31C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {580F1846-9DD2-40B0-91C5-86FD79588BAD}
+	EndGlobalSection
+EndGlobal
